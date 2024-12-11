@@ -88,7 +88,7 @@ z_index = -1
 position = Vector2(0, -3)
 scale = Vector2(3, 3)
 sprite_frames = SubResource("SpriteFrames_41u1r")
-animation = &"run"
+animation = &"duck"
 flip_h = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
